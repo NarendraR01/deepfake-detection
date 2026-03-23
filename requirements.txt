@@ -29,15 +29,8 @@ six==1.16.0
 # Utilities
 requests==2.32.3
 urllib3==2.2.2
-certifi==2024.6.2
-chardet==5.2.0
-idna==3.7
-packaging>=24.1
-pyparsing>=3.1.2
-cycler>=0.12.1
-kiwisolver>=1.4.5
-contourpy>=1.0.1
-fonttools>=4.22.0
-
-# Production server (for deployment)
-gunicorn>=22.0.0
+validators==0.28.3
+watchdog==4.0.1
+wcwidth==0.2.13
+webencodings==0.5.1
+widgetsnbextension==4.0.11
